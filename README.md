@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Peter Beshoy
 
-<!--
-**PeterBeshoy/PeterBeshoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software developer who enjoys building web applications and learning new technologies.  
+I believe in writing clean, efficient code and always striving to improve.
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- 🔧 Frontend & Backend Web Development  
+- 💡 Learning new tech trends  
+- 🛠️ Working with modern frameworks and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages**: JavaScript, Python, HTML, CSS  
+- **Frameworks**: React, Node.js, Django  
+- **Tools**: Git, GitHub, VS Code, Linux
+
+## 📫 Let's Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/your-username)  
+- 🐦 [Twitter](https://twitter.com/your-username)  
+- 📧 Email: your-email@example.com  
+
+---
+
+> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
